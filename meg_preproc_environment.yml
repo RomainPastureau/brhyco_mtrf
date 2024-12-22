@@ -1,0 +1,24 @@
+name: meg_preproc
+dependencies:
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - mne
+  - mne-bids
+  - find-delay
+  - scikit-learn
+  - pyvistaqt
+  - ipykernel
+  - ipywidgets
+  - darkdetect
+  - ipyevents
+  - nibabel
+  - trame
+  - trame-vtk
+  - trame-vuetify
+  - pyqt5
+  - eelbrain
+  - moviepy
+  - pip:
+    - git+https://github.com/christianbrodbeck/TRF-Tools/archive/main.zip
