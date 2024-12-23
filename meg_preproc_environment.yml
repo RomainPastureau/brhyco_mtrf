@@ -20,5 +20,6 @@ dependencies:
   - pyqt5
   - eelbrain
   - moviepy
+  - gammatone
   - pip:
     - git+https://github.com/christianbrodbeck/TRF-Tools/archive/main.zip
