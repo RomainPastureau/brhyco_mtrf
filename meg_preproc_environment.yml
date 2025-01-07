@@ -6,6 +6,7 @@ dependencies:
   - matplotlib
   - mne
   - mne-bids
+  - mne-qt-browser
   - find-delay
   - scikit-learn
   - pyvistaqt
