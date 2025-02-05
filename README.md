@@ -1,2 +1,1 @@
-# brhyco_mtrf
-BCBL's BRhyCo repository for working on mTRF
+Repository moved to https://git.bcbl.eu/brhyco/meg-preprocessing
